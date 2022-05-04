@@ -10,8 +10,8 @@
     },
 
    "scriptHub": {
-         "Ez Pets": { 
-            "Name": "Ez Pets", 
+         "Saza Hub": { 
+            "Name": "Saza Hub", 
             "source": "loadstring(game:HttpGet(\"https://www.scriptblox.com/raw/SAZA-HUB_496\"))();", 
             "Description": "No Description Inputed.", 
             "Picture": "https://scriptsrbx.com/wp-content/uploads/2022/02/image-11-1024x542.png"

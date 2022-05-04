@@ -5,17 +5,36 @@
             "source": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TurfuGoldy/GoldenScripts/main/EzPets.lua\"))();", 
             "Description": "This script for Pet Simulator X comes with a lot of really cool features like spam autofarm, which is super fast, then theres the visual pets and gems dupe & way more to try out! Made by Goldy#5625.", 
             "Picture": "https://cdn.discordapp.com/attachments/954303523435188264/962370465454768128/unknown.png"
+        },
+        "Cmd X":{
+            "Name": "Cmd X", 
+            "source": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/CMD-X", 
+            "Description": "An admin command's script", 
+            "Picture": "https://cdn.discordapp.com/icons/760213934300463217/8e9da0da5deb76c622f9e5b8a605f565.png?size=4096"
+        },
+        "Infinite Yield":{
+            "Name": "Infinite Yield", 
+            "source": "https://infyield.yolasite.com/resources/IY_FE.txt", 
+            "Description": "An admin command's script", 
+            "Picture": "https://infyield.yolasite.com/resources/IY_LOGO_Transparent%20-%20Copy.png.opt500x230o0%2C0s500x230.png"
+        },
+        "Owl Hub":{
+            "Name": "Owl Hub", 
+            "source": "https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua", 
+            "Description": "One of the best script hubs!", 
+            "Picture": "https://cdn.discordapp.com/attachments/756137943768236133/776898131442925638/Logo.png"
+        },
+        "VG Hub":{
+            "Name": "V.G Hub", 
+            "source": "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub", 
+            "Description": "V.G Hub Free and Convenient", 
+            "Picture": "https://cdn.discordapp.com/attachments/841336327051542559/841342607593308200/4a59f900ed05f1b292f78670c0118214.png"
+        },
+        "Bruh Hub": {
+            "Name": "Bruh Hub", 
+            "source": "https://bruh.keshsenpai.com/.lua", 
+            "Description": "One of the free, best and quality script hub that you could ever ask for. There are not many games for this hub as it is mainly focused on the best quality experience possible for the users to make out of this! Currently has 6 games as of May 10th, 2021. PF, SL2, Vesteria and more!", 
+            "Picture": "https://cdn.keshsenpai.com/i/6a2fd86d1795709ef94.png"
         }
-       
-    },
-
-    
-         "Saza Hub": { 
-            "Name": "Saza Hub", 
-            "source": "loadstring(game:HttpGet(\"https://www.scriptblox.com/raw/SAZA-HUB_496\"))();", 
-            "Description": "No Description Inputed.", 
-            "Picture": "https://scriptsrbx.com/wp-content/uploads/2022/02/image-11-1024x542.png"
-        }
-       
     }
-
+}

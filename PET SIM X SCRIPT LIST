@@ -1,0 +1,11 @@
+{
+    "scriptHub": {
+         "Ez Pets": { 
+            "Name": "Ez Pets", 
+            "source": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TurfuGoldy/GoldenScripts/main/EzPets.lua\"))();", 
+            "Description": "This script for Pet Simulator X comes with a lot of really cool features like spam autofarm, which is super fast, then theres the visual pets and gems dupe & way more to try out! Made by Goldy#5625.", 
+            "Picture": "https://cdn.discordapp.com/attachments/954303523435188264/962370465454768128/unknown.png"
+        }
+       
+    }
+}
